@@ -8,3 +8,4 @@ spring:
 
 haoxin:
     data: "郝鑫，你真棒"
+    age: "是的"
