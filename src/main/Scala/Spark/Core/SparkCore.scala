@@ -1,4 +1,4 @@
-package Spark
+package Spark.Core
 
 import org.apache.spark.{SparkConf, SparkContext}
 
